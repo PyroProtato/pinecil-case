@@ -18,3 +18,15 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 I measured out each dimension for the pinecil and tried to make a compartment that would fit it perfectly (so that it wouldn't jiggle around in the case). Additionally, I tried to design the case so that it has hotswappable clips for different pinecil tips. Each clip has a similar bottom that should fit perfectly in the slot in the case. Now to check if the clips actually fit with the pinecil tips...  
 
+## 10/10/2025 - Tested Clips & Hinges + Designed Outside of Top Case  
+
+![Screenshot 2025-10-10 172732.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--c45aea45b32f188cf08b8ddf4bc4e9117156b769/Screenshot%202025-10-10%20172732.png)
+![Screenshot 2025-10-10 172720.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--8b4518ae5a454afb28ac9363228c363c0c52fe4e/Screenshot%202025-10-10%20172720.png)![IMG_3113.jpeg](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNywicHVyIjoiYmxvYl9pZCJ9fQ==--f654dd9a30c6c1e5f793862fcd05eb93b27d0759/IMG_3113.jpeg)
+![IMG_3112.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--8980ab1a00a1ad37ce16119d792bd216d445dc3f/IMG_3112.jpeg)
+First of all, I tested a bunch of different tolerances to get the perfect snap fit for the pinecil tip clips. After 6 tries I got a good one.
+
+For the hinges, I was thinking that I wanted this case to be strong and I want the hinges to be small to make it asthetically pleasing. So, I probably wouldn't be able to use PLA for the entire hinge because it isn't the strongest and it doesn't print that well with smaller pieces. So, I was thinking of small items I could use for the axle, and I thought of a paper clip. The metal wire is pretty strong, I can cut it into smaller pieces, and it should be able to work with PLA hinges. I printed out a few tries, and it actually ended up working! So, I will use this on the final design.
+
+Finally, I designed the outside of the top case. I want the outside to be as sleek and professional as I can, so I put their minimal logo on the front as well as a green border. Both the logo and the border I plan to print separately and glue on later to remove the need for support material (which would scar the face of the case).
+  
+
