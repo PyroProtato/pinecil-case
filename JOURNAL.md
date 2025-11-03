@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Pinecil Case**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/345).
-
-
 ## 10/9/2025 - Created the Bottom Case in CAD  
 
 ![Screenshot 2025-10-09 112841.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--513b8db23548239003b7a754c8672fabb9088b7c/Screenshot%202025-10-09%20112841.png)
@@ -28,5 +24,18 @@ First of all, I tested a bunch of different tolerances to get the perfect snap f
 For the hinges, I was thinking that I wanted this case to be strong and I want the hinges to be small to make it asthetically pleasing. So, I probably wouldn't be able to use PLA for the entire hinge because it isn't the strongest and it doesn't print that well with smaller pieces. So, I was thinking of small items I could use for the axle, and I thought of a paper clip. The metal wire is pretty strong, I can cut it into smaller pieces, and it should be able to work with PLA hinges. I printed out a few tries, and it actually ended up working! So, I will use this on the final design.
 
 Finally, I designed the outside of the top case. I want the outside to be as sleek and professional as I can, so I put their minimal logo on the front as well as a green border. Both the logo and the border I plan to print separately and glue on later to remove the need for support material (which would scar the face of the case).
+  
+
+## 11/2/2025 - Touch Ups (A lot of them) + Printed Main Body of Case  
+
+Welp quite a few things were needed to be changed with the CAD. First of all, the green bordering had to be changed to print better, the clips inside to hold the soldering iron tips were changed to be able to hold 4, the top case now has sections, the bottom case now is sectioned off better, the holes for the paper clips had to be tigheter to prevent rattling, the thickness of the case and the whole pinecil spot had to be changed to fit better, and finally, I added magnet holes to the inside of the case.
+
+![Screenshot 2025-11-02 223253](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0MywicHVyIjoiYmxvYl9pZCJ9fQ==--340fccd6114747935933d391d7020cf22fab6a1b/Screenshot%202025-11-02%20223253.png)![Screenshot 2025-11-02 223241](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--580aadc4f1a026435804da6f620b6931b0503db5/Screenshot%202025-11-02%20223241.png)
+
+I also started printing the case. The first iteration of the bottom case didn't work, so I had to reprint. However, the second try of the bottom case and the first try of the top case worked very well, so I'm pretty happy about that. Had to cut paper clips to make hinges for the case. There's still a few more touch ups needed for the case to be printed including the accents, clips, and magnets, but I will work on that in the coming week.
+
+![IMG_3132](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--dbf454c9ecf0257cb0d497cec76e6d1fc8795d6f/IMG_3132.jpeg)
+![IMG_3131](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0NywicHVyIjoiYmxvYl9pZCJ9fQ==--e973c4f2516388159f5c551ea1251af40eb8d39c/IMG_3131.jpeg)
+![IMG_3130](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a039a8ddc28dbfb927792db036640903ebdcfc10/IMG_3130.jpeg)
   
 
