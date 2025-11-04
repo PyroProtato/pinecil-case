@@ -1,7 +1,9 @@
 # Pinecil Case
 
-<img src="https://github.com/user-attachments/assets/85767b1d-d8bd-4d72-a4cc-cfc7d5542b08" width="500" />
-<img src="https://github.com/user-attachments/assets/84f5bf6a-1322-47d1-bdac-eee4cd6884ad" width="500" />
+<img src="https://github.com/user-attachments/assets/85767b1d-d8bd-4d72-a4cc-cfc7d5542b08" width="200" />
+<img src="https://github.com/user-attachments/assets/84f5bf6a-1322-47d1-bdac-eee4cd6884ad" width="200" />
+<img src="https://github.com/user-attachments/assets/35f3a857-8e0c-43f9-861a-2974079e8a87" width="200" />
+<img src="https://github.com/user-attachments/assets/a9331ff7-6541-4647-b96d-bf449570fea3" width="200" />
 
 A 3D printed case for my pinecil with a few unique features! Uses magnets for closing, paper clips as hinges, and the rest is fully 3D-printed.
 
