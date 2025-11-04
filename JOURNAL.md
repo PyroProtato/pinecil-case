@@ -39,3 +39,11 @@ I also started printing the case. The first iteration of the bottom case didn't 
 ![IMG_3130](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a039a8ddc28dbfb927792db036640903ebdcfc10/IMG_3130.jpeg)
   
 
+## 11/3/2025 - Finished Accents + Clips  
+
+Finishing touches on the case! I glued the logo and accents onto the case, and I attached the hooks to hold the soldering tip. Also had to use pliers to cut and attach the hinges for the case. Still waiting for magnets to arrive on Amazon, but for now I think it's good enough to ship!
+
+![IMG_3133](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIyNywicHVyIjoiYmxvYl9pZCJ9fQ==--50b0ccf9cb863532e3fbd81132525bf82ee452fd/IMG_3133.jpeg)![IMG_3134](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9f346da2183cff062f7fa260ceba83ea7d5c6d4/IMG_3134.jpeg)
+
+  
+
